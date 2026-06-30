@@ -25,9 +25,6 @@
 | 저장소 기준 Unity 버전 | 2021.3.23f1 |
 
 ## 2. 시연 영상
-
-[![NEBELOUN Demo](https://img.youtube.com/vi/R_Unb4zZpRw/maxresdefault.jpg)](https://www.youtube.com/watch?v=R_Unb4zZpRw)
-
 - YouTube: <https://www.youtube.com/watch?v=R_Unb4zZpRw>
 
 ## 3. 게임 목표
@@ -221,14 +218,14 @@ Assets
 
 | 이름 | 역할 | 담당 |
 | --- | --- | --- |
-| 모규찬 | PD / 기획 | 전투, 적 몬스터, 보스 기획 |
-| 박승원 | PM / 기획 | 메인 기획, 콘셉트, 캐릭터 |
-| 김태욱 | Lead Programmer | 캐릭터 능력치, 증강 시스템, Boss 개발 |
-| 허한결 | Programmer | 오브젝트 풀링, 플레이어블 캐릭터 |
-| 김영웅 | Programmer | 적 생성 로직, 오클루전 컬링 |
-| 박새한 | Programmer | UI 개발, 시나리오 |
-| 한동욱 | Programmer | 증강 개발 |
-| 한승엽 | Programmer | 적 AI, UI 로직 시스템, 사운드 구현 |
+| 모규찬 | PD / 기획
+| 박승원 | PM / 기획
+| 김태욱 | Lead Programmer
+| 허한결 | Programmer
+| 김영웅 | Programmer
+| 박새한 | Programmer
+| 한동욱 | Programmer
+| 한승엽 | Programmer
 
 ## 11. 실행 방법
 
