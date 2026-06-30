@@ -216,8 +216,8 @@ Assets
 
 ## 10. 팀 및 담당 역할
 
-| 이름 | 역할 | 담당 |
-| --- | --- | --- |
+| 이름 | 역할 |
+| --- | --- |
 | 모규찬 | PD / 기획
 | 박승원 | PM / 기획
 | 김태욱 | Lead Programmer
@@ -242,8 +242,3 @@ git clone https://github.com/Yeop-Team/VamSurLike.git
    - `Stage`
    - `Character`
    - `InGameScene`
-
-## 12. 참고
-
-- 본 저장소에는 외부 에셋 및 패키지가 포함되어 있을 수 있으므로 재배포/상업적 이용 전 각 에셋의 라이선스를 확인해야 합니다.
-- 현재 저장소의 기존 README는 간단한 임시 문구만 포함되어 있어, 본 문서는 프로젝트 설명과 포트폴리오 문서를 기반으로 재구성한 GitHub README 초안입니다.
